@@ -122,6 +122,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="1.41\compras.md" />
+    <Content Include="1.41\index.md" />
+    <Content Include="1.41\vendas.md" />
+    <Content Include="1.42\compras.md" />
+    <Content Include="1.42\index.md" />
+    <Content Include="1.42\vendas.md" />
     <Content Include="404error.md" />
     <Content Include="index.md" />
     <Content Include="Templates\Material\assets\fonts\icon.eot" />
@@ -145,10 +151,8 @@
     <Content Include="1.43\receber.md" />
     <Content Include="1.43\tesouraria.md" />
     <Content Include="1.43\vendas.md" />
-    <Content Include="2.0\versao_2.0\2.0.8.md" />
-	  <Content Include="2.0\versao_2.0\2.0.9.md" />
     <None Include="Properties\PublishProfiles\Novidades.pubxml" />
-    <None Include="Properties\PublishProfiles\NovidadesInternet.pubxml" />
+    <None Include="Properties\PublishProfiles\useall - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
